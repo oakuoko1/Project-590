@@ -1,0 +1,22 @@
+---
+title: "Project Proposal"
+author: "Ohene Akuoko, Kelsie Ferin, Kati Togliatti & Victoria Walker"
+output: html_document
+---
+
+## Background: Kelsie
+  * What problem are you addressing? Why is there a need for this project?
+  * Where does your data come from? Do you already have access to it? What do your data look like?
+  
+## Objective: Kati
+  * The objective for this project for this class is to create a model of the weather data, while the overall objective is to create a relational database. The reason for having two objectives is because of the timing that this project was started. It will take time to complete the framework of the model that will be used for the weather data, as this is one of the most important steps. The group then will be required to make a small presentation on how we completed making the model, so an underlying objective of completing the model of the data is to be able to also present this data to the class. After the class is completed this model will then be taken and hopefully turned into a relational database that others in the department will be able to access and view the data that they need. This relational database will also be a way that the data can be quality controlled at a quicker rate than is currently being done so that problems do not go unnoticed for days/weeks. 
+  
+## Approach: Victoria
+  * What strategies and tools will you use to reach your objective?
+  
+## Desired outcome: Ohene
+  * What does the final product look like?
+  
+## Timeline: 
+  * Use an additional page to create a timeline. Use the timeline to describe deliverables that will be held accountable within your group. Consider creating tasks that are easily assignable within the group, with clear deadlines.
+
